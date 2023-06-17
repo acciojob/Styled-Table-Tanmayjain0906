@@ -1,1 +1,7 @@
 /* your code */
+th{
+	background-color: blue;
+	border: none;
+	border-radius: 5px;
+	color: white;
+}
